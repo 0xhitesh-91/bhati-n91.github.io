@@ -1,3 +1,5 @@
+title: Welcome to bhati's github
+descrioption: We will code here
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bhati-n91/bhati-n91.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
